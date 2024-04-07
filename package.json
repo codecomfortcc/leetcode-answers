@@ -1,0 +1,21 @@
+{
+  "name": "leetcode-answers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "palindrome": "cd palindrome_number && cd js && node script.js",
+    "longestCommonPrefix": "cd Longest_common_prefix && cd js && node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yashovardhannagasiva/leetcode-answers.git"
+  },
+  "author": "yasovardhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yashovardhannagasiva/leetcode-answers/issues"
+  },
+  "homepage": "https://github.com/yashovardhannagasiva/leetcode-answers#readme"
+}
