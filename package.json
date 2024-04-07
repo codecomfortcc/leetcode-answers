@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "palindrome": "cd palindrome_number && cd js && node script.js",
     "longestCommonPrefix": "cd Longest_common_prefix && cd js && node script.js",
-    "validParentheses":"cd valid_parentheses && cd js && node script.js"
+    "validParentheses":"cd valid_parentheses && cd js && node script.js",
+    "mergeTwoSortedArray":"cd merge_two_sorted_array && cd js && node script.js"
   },
   "repository": {
     "type": "git",
